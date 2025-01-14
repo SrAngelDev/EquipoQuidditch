@@ -1,6 +1,6 @@
 package srangeldev.models
 
-class GolpeadorImpl: Golpeador {
+class GolpeadorImpl: Golpeador, Posicion {
     override fun golpear() {
         println("Golpeando las Bludgers como golpeador")
     }

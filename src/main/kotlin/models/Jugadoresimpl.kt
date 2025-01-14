@@ -1,8 +1,9 @@
 package srangeldev.models
 
-class Jugadoresimpl(
+open class JugadoresImpl(
     nombre: String,
-    edad: Int
+    edad: Int,
+    var posicion: Posicion,
 ) : Jugadores, Persona(nombre, edad) {
     override fun entrenar() {
         println("Entrenando como Jugador de Quidditch")

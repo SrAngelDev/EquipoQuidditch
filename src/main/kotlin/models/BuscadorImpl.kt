@@ -1,6 +1,6 @@
 package srangeldev.models
 
-class BuscadorImpl: Buscador {
+class BuscadorImpl: Buscador, Posicion {
     override fun capturar() {
         println("Capturando la Snitch Dorada como buscador")
     }

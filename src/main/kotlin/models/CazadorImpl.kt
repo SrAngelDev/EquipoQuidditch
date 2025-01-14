@@ -1,6 +1,6 @@
 package srangeldev.models
 
-class CazadorImpl: Cazador {
+class CazadorImpl: Cazador, Posicion {
     override fun marcarPuntos() {
         println("Marcando puntos como cazador")
     }

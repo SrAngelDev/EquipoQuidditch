@@ -1,6 +1,6 @@
 package srangeldev.models
 
-class GuardapalosImpl: Guardapalos {
+class GuardapalosImpl : Guardapalos, Posicion{
     override fun defenderAros() {
         println("Defendiendo los Aros como Guardapalos")
     }
