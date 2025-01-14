@@ -18,7 +18,7 @@ Los jugadores pueden asumir diferentes roles dentro del equipo:
 - **Golpeadores**: Golpean las Bludgers.
 - **Buscadores**: Capturan la Snitch Dorada.
 
-## Flexibilidad de Roles
+## Flexibilidad de Posiciones
 
-Un jugador no está restringido a un solo rol. Puede cambiar su posición y desempeñar cualquier otra función según sea necesario. Por ejemplo, un Cazador puede actuar como Guardapalos, y un Buscador puede asumir el rol de Golpeador, entre otras combinaciones. Todos los jugadores tienen la capacidad de adaptarse y realizar las acciones de los otros tipos de jugadores.
+Un jugador no está restringido a una sola posicion. Puede cambiar su posición y desempeñar cualquier otra función según sea necesario. Por ejemplo, un Cazador puede actuar como Guardapalos, y un Buscador puede asumir el rol de Golpeador, entre otras combinaciones. Todos los jugadores tienen la capacidad de adaptarse y realizar las acciones de los otros tipos de jugadores.
 
