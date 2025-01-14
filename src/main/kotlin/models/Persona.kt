@@ -1,4 +1,6 @@
 package srangeldev.models
 
-class Persona {
-}
+open class Persona(
+    val nombre: String,
+    val edad: Int
+)
